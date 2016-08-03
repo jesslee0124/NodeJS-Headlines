@@ -1,0 +1,20 @@
+<!-- The header section -->
+<div class="header">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        {#header-section}
+          <h1>{heading-title}</h1>
+      </div>
+      <div class="col-md-6">
+        <ul class="nav nav-tabs pull-right">
+          <li role="presentation"><a href="#">{heading-nav1}</a></li>
+          <li role="presentation"><a href="#">{heading-nav2}</a></li>
+          <li role="presentation"><a href="#">{heading-nav3}</a></li>
+          <li role="presentation"><a href="#">{heading-nav4}</a></li>
+        </ul>
+        {/header-section}
+      </div>
+    </div>
+  </div>
+</div>

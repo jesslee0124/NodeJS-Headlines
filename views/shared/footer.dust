@@ -1,0 +1,18 @@
+<!-- The footer section -->
+<div class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+      {#footer-section}
+        <h1>{footer-heading}</h1>
+        <p>{footer-company-addr1}</p>
+        <p>{footer-company-addr2}</p>
+        <p>{footer-company-phone}</p>
+      {/footer-section}
+        <img src="/images/email.svg" alt="Email">
+        <img src="/images/fb.svg" alt="Facebook">
+        <img src="/images/twitter.svg" alt="Twitter">
+      </div>
+    </div>
+  </div>
+</div>

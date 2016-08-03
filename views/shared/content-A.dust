@@ -1,0 +1,9 @@
+<!-- The content-a section -->
+<div class="banner">
+  <div class="container">
+  	{#content-a}
+    	<h3>{content-a-heading}</h3>
+    	<p>{content-a-description}</p>
+    {/content-a}
+  </div>
+</div>

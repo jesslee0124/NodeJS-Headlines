@@ -1,0 +1,8 @@
+<!-- The main section -->
+<div class="jumbotron">
+  <div class="container">
+  	{#main-section}    	
+  		<h2>{main-heading1} <span>{main-heading2}</span><br>{main-heading3}<br>{main-heading4}</h2>
+    {/main-section}
+  </div>
+</div>

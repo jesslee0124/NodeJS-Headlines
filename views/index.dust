@@ -1,0 +1,8 @@
+{>"shared/layout"/}
+ {<content}
+	{>"shared/header"/}
+	{>"shared/main"/}
+	{>"shared/content-A"/}
+	{>"shared/content-B"/}
+	{>"shared/footer"/}
+ {/content}
